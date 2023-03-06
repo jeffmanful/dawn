@@ -3,8 +3,6 @@
     "main": {
       "type": "main-test-product",
       "settings": {
-        "tax_notice": "40% Tax applied",
-        "show_reviews": true
       }
     }
   },

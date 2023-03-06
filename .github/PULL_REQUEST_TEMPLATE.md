@@ -27,7 +27,9 @@ Fixes #0.
 - [ ] Step 1
 
 ### Demo links
-<!-- Please include a link to a demo store that includes preconfigured sections and settings to allow reviewers to easily test the features you are working on. -->
+<!-- Please include a link to a demo store that includes preconfigured sections and settings to allow reviewers t
+
+o easily test the features you are working on. -->
 
 - [Store](url)
 - [Editor](url)
